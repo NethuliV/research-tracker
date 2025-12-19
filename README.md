@@ -89,10 +89,3 @@ Backend endpoints are under `/api/*` (in `backend/researchtracker/src/main/java/
 
 ---
 
-## Contributing
-- Fork, create a branch, make changes, add tests and open a PR.
-- Keep changes scoped, add unit tests for backend logic and components for frontend UI changes.
-
----
-
-If you'd like, I can add a quick `docker-compose` config to run MySQL + backend together and update README run scripts. ✅
